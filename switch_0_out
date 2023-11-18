@@ -1,1822 +1,1073 @@
 Initializing the switch
-# Starting switch with id 0
-[INFO] Switch MAC de:fe:c8:ed:00:00
-CFG priority: 14
-[1, 2, -1, -1]
-<class 'list'>
-INTERFACES LEN: 4
-INIT priority: 14
-INIT root_bridge_id: 14
-INIT own_bridge_id: 14
-INIT2 stp: [0, 1, 1, -1, 1]
-INIT2 own_bridge_id: 14
-INIT2 root_bridge_id: 14
-THREAD OBID: 14
-THREAD RBID: 14
 r-0
 r-1
 rr-0-1
 rr-0-2
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-caca
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2054
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2048
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2054
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2048
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2054
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2054
 Received frame of size 46 on interface 2
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
 Received frame of size 46 on interface 3
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2054
 Received frame of size 42 on interface 1
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2054
 Received frame of size 46 on interface 3
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2048
 Received frame of size 42 on interface 1
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2048
 Received frame of size 46 on interface 3
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2054
 Received frame of size 46 on interface 3
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
+Destination MAC: de:ad:be:ef:00:05
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
 Received frame of size 42 on interface 0
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: de:ad:be:ef:00:09
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2048
 Received frame of size 46 on interface 3
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
-BPDU
-ELSE
-Received frame of size 20 on interface 2
-BPDU
-NEW RB
-stp: 1
-stp: 1
-stp: 1
-stp: 1
-stp: 0
-Received frame of size 20 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+Received frame of size 18 on interface 3
+Setting up interface: r-0
+Setting up interface: r-1
+Setting up interface: rr-0-1
+Setting up interface: rr-0-2
