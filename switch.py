@@ -152,7 +152,8 @@ def main():
                     if stp[i] == 1 and vlan_ids[i] == -1: # Designated trunk
                         send_to_link(i, bpdu, 18)
             
-            elif bpdu_rb_id == root_bridge_id: # Same Root Bridge
+            # It came from the root bridge
+            elif bpdu_rb_id == root_bridge_id: 
                 bpdu_sender_cost = int.from_bytes(data[14:16], byteorder='big')
                 if stp[interface] == 2 and bpdu_sender_cost + 10 < root_path_cost:
                     root_path_cost = bpdu_sender_cost + 10
@@ -160,6 +161,7 @@ def main():
                     if bpdu_sender_cost > root_path_cost:
                         stp[interface] = 1
             
+            # It came from another bridge
             elif int.from_bytes(data[12:14], byteorder='big') == own_bridge_id:
                 stp[interface] = -1
             
